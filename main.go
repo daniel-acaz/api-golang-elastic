@@ -1,28 +1,22 @@
 package main
 
-import "time"
+import (
+	"log"
+	"net/http"
 
-type Property struct {
-	ID                  int
-	bedroomQuantity     string
-	squareMetter        int
-	price               float64
-	address             Address
-	buldingDate         time.Time
-	parkingLotsQuantity int
-	bathroomQuantity    int
-	hasFurniture        bool
-}
+	"github.com/gorilla/mux"
 
-type Address struct {
-	street       string
-	number       int
-	neighborhood string
-	city         string
-	state        string
-	country      string
-}
+	controller "github.com/daniel-acaz/api-golang-elastic/route"
+)
 
 func main() {
+
+	r := mux.NewRouter()
+	r.HandleFunc("/", controller.GetAllProperty).Methods("GET")
+	r.HandleFunc("/{id}", controller.GetPropertyById).Methods("GET")
+	r.HandleFunc("/", controller.CreateProperty).Methods("POST")
+	r.HandleFunc("/{id}", controller.UpdateProperty).Methods("PUT")
+	r.HandleFunc("/{id}", controller.DeleteProperty).Methods("DELETE")
+	log.Fatal(http.ListenAndServe(":8080", nil))
 
 }
