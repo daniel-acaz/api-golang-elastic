@@ -17,6 +17,7 @@ func main() {
 	r.HandleFunc("/", controller.CreateProperty).Methods("POST")
 	r.HandleFunc("/{id}", controller.UpdateProperty).Methods("PUT")
 	r.HandleFunc("/{id}", controller.DeleteProperty).Methods("DELETE")
+	http.Handle("/", r)
 	log.Fatal(http.ListenAndServe(":8080", nil))
 
 }

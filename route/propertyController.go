@@ -77,7 +77,7 @@ func GetPropertyById(w http.ResponseWriter, r *http.Request) {
 
 		if property.ID == id {
 
-			response, err := json.Marshal(models)
+			response, err := json.Marshal(property)
 
 			if err != nil {
 				http.Error(w, err.Error(), http.StatusInternalServerError)
@@ -104,7 +104,7 @@ func CreateProperty(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	property.ID = len(models)
+	property.ID = len(models) + 1
 
 	models = append(models, property)
 
@@ -131,7 +131,7 @@ func UpdateProperty(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	for _, updateProperty := range models {
+	for index, updateProperty := range models {
 
 		if updateProperty.ID == id {
 
@@ -143,7 +143,7 @@ func UpdateProperty(w http.ResponseWriter, r *http.Request) {
 				return
 			}
 
-			updateProperty = updateObject(updateProperty, property)
+			updateProperty = updateObject(index, property)
 
 			response, err := json.Marshal(updateProperty)
 
@@ -163,16 +163,16 @@ func UpdateProperty(w http.ResponseWriter, r *http.Request) {
 
 }
 
-func updateObject(updateProperty model.Property, property model.Property) model.Property {
-	updateProperty.Address = property.Address
-	updateProperty.BathroomQuantity = property.BathroomQuantity
-	updateProperty.BedroomQuantity = property.BedroomQuantity
-	updateProperty.BuldingDate = property.BuldingDate
-	updateProperty.HasFurniture = property.HasFurniture
-	updateProperty.ParkingLotsQuantity = property.ParkingLotsQuantity
-	updateProperty.Price = property.Price
-	updateProperty.SquareMetter = property.SquareMetter
-	return updateProperty
+func updateObject(index int, property model.Property) model.Property {
+	models[index].Address = property.Address
+	models[index].BathroomQuantity = property.BathroomQuantity
+	models[index].BedroomQuantity = property.BedroomQuantity
+	models[index].BuldingDate = property.BuldingDate
+	models[index].HasFurniture = property.HasFurniture
+	models[index].ParkingLotsQuantity = property.ParkingLotsQuantity
+	models[index].Price = property.Price
+	models[index].SquareMetter = property.SquareMetter
+	return models[index]
 }
 
 func DeleteProperty(w http.ResponseWriter, r *http.Request) {
