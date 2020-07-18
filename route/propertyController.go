@@ -7,6 +7,7 @@ import (
 	"time"
 
 	model "github.com/daniel-acaz/api-golang-elastic/domain"
+	repository "github.com/daniel-acaz/api-golang-elastic/repository"
 	"github.com/gorilla/mux"
 )
 
@@ -51,7 +52,9 @@ var models = []model.Property{
 
 func GetAllProperty(w http.ResponseWriter, r *http.Request) {
 
-	response, err := json.Marshal(models)
+	properties := repository.FindAll()
+
+	response, err := json.Marshal(properties)
 
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
