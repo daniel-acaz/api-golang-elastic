@@ -1,0 +1,174 @@
+{"index":{"_index":"properties_index","_type":"property","_id":"1"}}
+{"id":1,"price":784578.0,"address":{"street":"Rua Ernesto Pedron","number":37,"neighborhood":"Araçaúva","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":181,"building_date":"1970-09-14T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"2"}}
+{"id":2,"price":1031102.0,"address":{"street":"Travessa Ibiracaju","number":127,"neighborhood":"Bangú","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":58,"building_date":"1970-10-24T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"3"}}
+{"id":3,"price":335939.0,"address":{"street":"Rua Cochrane","number":116,"neighborhood":"Campestre","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":134,"building_date":"1971-04-21T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"4"}}
+{"id":4,"price":1203305.0,"address":{"street":"Rua Dom Henrique","number":128,"neighborhood":"Campo Grande","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":119,"building_date":"1974-01-23T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"5"}}
+{"id":5,"price":806144.0,"address":{"street":"Travessa 19 A","number":273,"neighborhood":"Casa Branca","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":104,"building_date":"1976-07-22T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"6"}}
+{"id":6,"price":1635707.0,"address":{"street":"Rua Dom João VI","number":125,"neighborhood":"Cata Preta","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":88,"building_date":"1977-10-05T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"7"}}
+{"id":7,"price":1587052.0,"address":{"street":"Rua Jaú","number":46,"neighborhood":"Centreville","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":90,"building_date":"1982-07-05T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"8"}}
+{"id":8,"price":1110631.0,"address":{"street":"Rua Adamantina","number":87,"neighborhood":"Centro","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":145,"building_date":"1982-08-14T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"9"}}
+{"id":9,"price":318376.0,"address":{"street":"Rua Quixada","number":290,"neighborhood":"Cidade São Jorge","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":191,"building_date":"1984-10-09T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"10"}}
+{"id":10,"price":319999.0,"address":{"street":"Travessa Magé","number":291,"neighborhood":"Condomínio Maracanã","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":96,"building_date":"1984-12-15T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"11"}}
+{"id":11,"price":1967411.0,"address":{"street":"Rua Lucila","number":97,"neighborhood":"Estância Rio Grande","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":167,"building_date":"1985-07-10T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"12"}}
+{"id":12,"price":1470940.0,"address":{"street":"Rua Netuno","number":4,"neighborhood":"Jardim","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":100,"building_date":"1990-02-02T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"13"}}
+{"id":13,"price":380141.0,"address":{"street":"Rua Ilha Grande","number":230,"neighborhood":"Jardim Alvorada","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":96,"building_date":"1991-07-23T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"14"}}
+{"id":14,"price":1911671.0,"address":{"street":"Rua Teles Barreto","number":113,"neighborhood":"Jardim Alzira Franco","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":119,"building_date":"1993-02-03T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"15"}}
+{"id":15,"price":1442200.0,"address":{"street":"Rua Antônio Lobo","number":26,"neighborhood":"Jardim Ana Maria","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":156,"building_date":"1996-04-25T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"16"}}
+{"id":16,"price":1287218.0,"address":{"street":"Rua Mista 17","number":229,"neighborhood":"Jardim Bela Vista","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":94,"building_date":"1997-09-27T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"17"}}
+{"id":17,"price":1388169.0,"address":{"street":"Rua 9 de Setembro","number":209,"neighborhood":"Jardim Bom Pastor","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":186,"building_date":"1997-12-15T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"18"}}
+{"id":18,"price":937086.0,"address":{"street":"Rua Brotas","number":206,"neighborhood":"Jardim Cipreste","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":171,"building_date":"1998-08-30T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"19"}}
+{"id":19,"price":438275.0,"address":{"street":"Rua Curuípe","number":233,"neighborhood":"Jardim Clube de Campo","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":161,"building_date":"2003-05-13T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"20"}}
+{"id":20,"price":1163929.0,"address":{"street":"Estrada Taquaruçu","number":167,"neighborhood":"Jardim Cristiane","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":67,"building_date":"2005-01-26T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"21"}}
+{"id":21,"price":1546518.0,"address":{"street":"Rua Jordan","number":39,"neighborhood":"Jardim das Maravilhas","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":79,"building_date":"2005-05-09T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"22"}}
+{"id":22,"price":612236.0,"address":{"street":"Rua Manoel Vaz","number":47,"neighborhood":"Jardim do Estádio","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":180,"building_date":"2011-10-11T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"23"}}
+{"id":23,"price":411939.0,"address":{"street":"Rua Jorge Chammas","number":61,"neighborhood":"Jardim Guarará","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":60,"building_date":"2012-01-31T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"24"}}
+{"id":24,"price":926504.0,"address":{"street":"Rua Libéria","number":99,"neighborhood":"Jardim Guaripocaba","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":154,"building_date":"2013-09-14T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"25"}}
+{"id":25,"price":1913481.0,"address":{"street":"Estrada Fernão Dias","number":72,"neighborhood":"Jardim Ipanema","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":134,"building_date":"2016-11-18T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"26"}}
+{"id":26,"price":1191519.0,"address":{"street":"Avenida Inconfidência Mineira","number":172,"neighborhood":"Jardim Irene","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":169,"building_date":"1973-08-23T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"27"}}
+{"id":27,"price":1385775.0,"address":{"street":"Travessa 21 A","number":89,"neighborhood":"Jardim Itapoan","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":105,"building_date":"1975-02-23T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"28"}}
+{"id":28,"price":1125181.0,"address":{"street":"Rua Singapura","number":224,"neighborhood":"Jardim Jamaica","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":51,"building_date":"1976-05-18T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"29"}}
+{"id":29,"price":1978382.0,"address":{"street":"Rua Cabuçu","number":25,"neighborhood":"Jardim Joaquim Eugênio de Lima","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":125,"building_date":"1976-05-31T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"30"}}
+{"id":30,"price":480263.0,"address":{"street":"Rua Ema","number":173,"neighborhood":"Jardim Las Vegas","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":140,"building_date":"1976-07-06T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"31"}}
+{"id":31,"price":1477134.0,"address":{"street":"Travessa Domingos Sávio","number":216,"neighborhood":"Jardim Marek","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":166,"building_date":"1977-07-16T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"32"}}
+{"id":32,"price":799710.0,"address":{"street":"Rua Adelpho Piagentini","number":206,"neighborhood":"Jardim Rina","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":161,"building_date":"1977-12-10T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"33"}}
+{"id":33,"price":1688013.0,"address":{"street":"Rua Sumaré","number":221,"neighborhood":"Jardim Santa Cristina","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":67,"building_date":"1980-06-17T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"34"}}
+{"id":34,"price":1577071.0,"address":{"street":"Rua Guaiba","number":265,"neighborhood":"Jardim Santo Alberto","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":161,"building_date":"1981-12-18T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"35"}}
+{"id":35,"price":1926843.0,"address":{"street":"Rua Inhambu","number":289,"neighborhood":"Jardim Santo André","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":59,"building_date":"1982-04-29T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"36"}}
+{"id":36,"price":235393.0,"address":{"street":"Rua Riacho Doce","number":269,"neighborhood":"Jardim Santo André CDHU","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":165,"building_date":"1982-11-12T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"37"}}
+{"id":37,"price":765423.0,"address":{"street":"Rua Jose de Alencar","number":214,"neighborhood":"Jardim Santo Antônio","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":152,"building_date":"1982-11-22T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"38"}}
+{"id":38,"price":1248784.0,"address":{"street":"Rua Gregorio de Matos","number":233,"neighborhood":"Jardim Stella","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":196,"building_date":"1990-02-13T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"39"}}
+{"id":39,"price":679707.0,"address":{"street":"Rua Nelo Rosati","number":81,"neighborhood":"Jardim Telles de Menezes","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":68,"building_date":"1990-05-02T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"40"}}
+{"id":40,"price":374292.0,"address":{"street":"Rua Ancara","number":299,"neighborhood":"Jardim Utinga","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":183,"building_date":"1997-01-01T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"41"}}
+{"id":41,"price":1339030.0,"address":{"street":"Travessa Colunéia","number":80,"neighborhood":"Jardim Vila Rica","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":120,"building_date":"1999-10-11T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"42"}}
+{"id":42,"price":376682.0,"address":{"street":"Rua Ascalon","number":42,"neighborhood":"Miami Riviera","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":51,"building_date":"2003-12-29T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"43"}}
+{"id":43,"price":767637.0,"address":{"street":"Rua Rio Pardo","number":176,"neighborhood":"Novo Homero Thon","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":102,"building_date":"2005-02-21T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"44"}}
+{"id":44,"price":456724.0,"address":{"street":"Rua Ana Neri","number":70,"neighborhood":"Paraíso","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":122,"building_date":"2006-12-25T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"45"}}
+{"id":45,"price":1597181.0,"address":{"street":"Rua Balaclava","number":37,"neighborhood":"Paranapiacaba","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":105,"building_date":"2009-10-22T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"46"}}
+{"id":46,"price":1594058.0,"address":{"street":"Rua Ana Jarvis","number":188,"neighborhood":"Parque América","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":193,"building_date":"2009-10-31T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"47"}}
+{"id":47,"price":340682.0,"address":{"street":"Rua Mergulhão","number":177,"neighborhood":"Parque Capuava","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":57,"building_date":"2012-05-22T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"48"}}
+{"id":48,"price":1613007.0,"address":{"street":"Rua União","number":16,"neighborhood":"Parque das Garças","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":116,"building_date":"2012-05-29T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"49"}}
+{"id":49,"price":644504.0,"address":{"street":"Rua Mista 23","number":260,"neighborhood":"Parque das Nações","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":174,"building_date":"2015-06-28T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"50"}}
+{"id":50,"price":1160361.0,"address":{"street":"Rua Jequitibás","number":231,"neighborhood":"Parque do Pedroso","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":61,"building_date":"2017-01-12T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"51"}}
+{"id":51,"price":1754508.0,"address":{"street":"Travessa Louveira","number":264,"neighborhood":"Parque Erasmo Assunção","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":118,"building_date":"1970-09-10T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"52"}}
+{"id":52,"price":1520869.0,"address":{"street":"Rua Parecis","number":39,"neighborhood":"Parque Gerassi","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":55,"building_date":"1974-05-14T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"53"}}
+{"id":53,"price":1974507.0,"address":{"street":"Avenida Mario de Andrade","number":276,"neighborhood":"Parque Jaçatuba","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":146,"building_date":"1977-08-17T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"54"}}
+{"id":54,"price":1606668.0,"address":{"street":"Praça Carolina Maria de Jesus","number":179,"neighborhood":"Parque João Ramalho","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":123,"building_date":"1978-02-22T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"55"}}
+{"id":55,"price":1065340.0,"address":{"street":"Rua Ituiutaba","number":139,"neighborhood":"Parque Marajoara","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":185,"building_date":"1983-04-02T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"56"}}
+{"id":56,"price":948228.0,"address":{"street":"Rua Alto da Boa Vista","number":97,"neighborhood":"Parque Novo Oratório","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":65,"building_date":"1983-05-20T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"57"}}
+{"id":57,"price":1783509.0,"address":{"street":"Rua Orquidea Negra","number":292,"neighborhood":"Parque Oratório","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":195,"building_date":"1986-04-27T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"58"}}
+{"id":58,"price":1251903.0,"address":{"street":"Rua Igarapava","number":87,"neighborhood":"Parque Represa Billings II","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":85,"building_date":"1987-11-23T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"59"}}
+{"id":59,"price":1657532.0,"address":{"street":"Rua Taípe","number":40,"neighborhood":"Parque Represa Billings III","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":191,"building_date":"1988-07-29T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"60"}}
+{"id":60,"price":1450346.0,"address":{"street":"Rua Itaí","number":185,"neighborhood":"Parque Rio Grande","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":80,"building_date":"1989-02-24T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"61"}}
+{"id":61,"price":758344.0,"address":{"street":"Rua Maripá","number":55,"neighborhood":"Pinheirinho","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":93,"building_date":"1989-10-22T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"62"}}
+{"id":62,"price":606035.0,"address":{"street":"Rua Caldeia","number":87,"neighborhood":"Polo Petroquímico de Capuava","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":185,"building_date":"1990-08-02T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"63"}}
+{"id":63,"price":1061486.0,"address":{"street":"Rua Recife","number":85,"neighborhood":"Recreio da Borda do Campo","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":121,"building_date":"1992-05-25T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"64"}}
+{"id":64,"price":922478.0,"address":{"street":"Travessa Grumari","number":105,"neighborhood":"Rio Bonito","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":132,"building_date":"1992-12-08T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"65"}}
+{"id":65,"price":1577299.0,"address":{"street":"Rua Arraial do Cabo","number":266,"neighborhood":"Rio Grande","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":102,"building_date":"1995-04-25T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"66"}}
+{"id":66,"price":1958674.0,"address":{"street":"Rua Marco Aurélio","number":288,"neighborhood":"Rio Mogi","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":94,"building_date":"1996-02-07T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"67"}}
+{"id":67,"price":1878243.0,"address":{"street":"Rua Pedutto","number":11,"neighborhood":"Rio Pequeno","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":84,"building_date":"1997-04-14T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"68"}}
+{"id":68,"price":250163.0,"address":{"street":"Rua Almeida Garret","number":38,"neighborhood":"Santa Maria","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":141,"building_date":"1999-04-21T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"69"}}
+{"id":69,"price":1588203.0,"address":{"street":"Rua Camélias","number":233,"neighborhood":"Santa Terezinha","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":122,"building_date":"2002-07-04T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"70"}}
+{"id":70,"price":1071864.0,"address":{"street":"Rua Bougival","number":200,"neighborhood":"Silveira","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":93,"building_date":"2003-06-09T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"71"}}
+{"id":71,"price":1128892.0,"address":{"street":"Rua Vinte e Quatro de Abril","number":180,"neighborhood":"Sítio dos Teco","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":195,"building_date":"2008-12-22T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"72"}}
+{"id":72,"price":1090218.0,"address":{"street":"Rua Cuitelão","number":226,"neighborhood":"Sítio dos Vianas","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":189,"building_date":"2010-07-27T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"73"}}
+{"id":73,"price":1230973.0,"address":{"street":"Rua Xingu","number":123,"neighborhood":"Sítio Taquaral","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":158,"building_date":"2014-11-28T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"74"}}
+{"id":74,"price":853779.0,"address":{"street":"Largo Padeiros","number":228,"neighborhood":"Três Divisas","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":149,"building_date":"2016-09-23T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"75"}}
+{"id":75,"price":606640.0,"address":{"street":"Rua Bom Jesus","number":146,"neighborhood":"Várzea do Tamanduateí","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":163,"building_date":"2019-01-22T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"76"}}
+{"id":76,"price":330557.0,"address":{"street":"Estrada Açaraúva","number":233,"neighborhood":"Vila Alice","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":139,"building_date":"1972-02-23T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"77"}}
+{"id":77,"price":1051009.0,"address":{"street":"Rua Sete de Abril","number":206,"neighborhood":"Vila Alpina","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":118,"building_date":"1972-07-07T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":1,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"78"}}
+{"id":78,"price":367510.0,"address":{"street":"Travessa Irmã Dulce","number":38,"neighborhood":"Vila Alzira","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":153,"building_date":"1975-02-19T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":1,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"79"}}
+{"id":79,"price":988028.0,"address":{"street":"Rua Gonçalo Coelho","number":13,"neighborhood":"Vila América","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":51,"building_date":"1975-09-02T15:04:05Z","parking_lots_quantity":3,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"80"}}
+{"id":80,"price":1516706.0,"address":{"street":"Travessa Rui Barbosa","number":149,"neighborhood":"Vila Aquilino","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":4,"square_metter":183,"building_date":"1977-04-26T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"81"}}
+{"id":81,"price":769908.0,"address":{"street":"Rua Irã","number":82,"neighborhood":"Vila Assunção","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":3,"square_metter":167,"building_date":"1981-03-06T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"82"}}
+{"id":82,"price":757331.0,"address":{"street":"Rua Washington Luiz","number":90,"neighborhood":"Vila Bastos","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":69,"building_date":"1984-07-02T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"83"}}
+{"id":83,"price":335224.0,"address":{"street":"Avenida Doze de Outubro","number":42,"neighborhood":"Vila Camilópolis","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":81,"building_date":"1985-08-20T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":3,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"84"}}
+{"id":84,"price":1078330.0,"address":{"street":"Rua Taquara","number":279,"neighborhood":"Vila Curuçá","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":116,"building_date":"1985-10-02T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":2,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"85"}}
+{"id":85,"price":887546.0,"address":{"street":"Rua Boqueirão","number":115,"neighborhood":"Vila Floresta","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":187,"building_date":"1987-01-14T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":2,"has_furniture":true}
+{"index":{"_index":"properties_index","_type":"property","_id":"86"}}
+{"id":86,"price":1381264.0,"address":{"street":"Travessa Hera","number":55,"neighborhood":"Vila Francisco Matarazzo","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":2,"square_metter":147,"building_date":"1987-06-07T15:04:05Z","parking_lots_quantity":2,"bathroom_quantity":3,"has_furniture":false}
+{"index":{"_index":"properties_index","_type":"property","_id":"87"}}
+{"id":87,"price":1515708.0,"address":{"street":"Travessa Jaconé","number":265,"neighborhood":"Vila Gilda","city":"Santo André","state":"SP","country":"Brasil"},"bedroom_quantity":1,"square_metter":176,"building_date":"1995-02-25T15:04:05Z","parking_lots_quantity":1,"bathroom_quantity":3,"has_furniture":true}

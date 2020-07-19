@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	controller "github.com/daniel-acaz/api-golang-elastic/route"
+	controller "github.com/daniel-acaz/api-golang-elastic/api"
 )
 
 func main() {

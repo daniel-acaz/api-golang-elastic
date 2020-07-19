@@ -15,7 +15,7 @@ func FindAll() []model.Property {
 
 	res, err := elasticsearch.Search(
 		elasticsearch.Search.WithContext(context.Background()),
-		elasticsearch.Search.WithIndex("registries_index"),
+		elasticsearch.Search.WithIndex("properties_index"),
 		elasticsearch.Search.WithSize(600),
 		elasticsearch.Search.WithTrackTotalHits(true),
 		elasticsearch.Search.WithPretty(),
@@ -47,8 +47,8 @@ func FindAll() []model.Property {
 
 	var properties []model.Property
 	for _, hit := range response.Hits.Hits {
-		registry := hit.Source
-		properties = append(properties, registry)
+		property := hit.Source
+		properties = append(properties, property)
 	}
 
 	return properties
